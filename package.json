@@ -1,0 +1,14 @@
+{
+  "name": "sok-battery-stub",
+  "version": "1.0.0",
+  "description": "Node.js stub for bypassing login on SOK battery app registration/login",
+  "main": "stub.js",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  },
+  "scripts": {
+    "start": "node stub.js"
+  },
+  "keywords": ["sok", "battery", "bms", "stub", "offline"],
+  "license": "MIT"
+}
